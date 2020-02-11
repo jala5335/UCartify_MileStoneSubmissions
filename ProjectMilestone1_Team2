@@ -1,0 +1,67 @@
+Jack Lambert, Alex Hawkins, Megan Moss, Ryan Long, Nathaniel Christy
+Team Two (Group #2)
+CSCI 3308-104-2
+Application Name: UCartify
+
+
+Description:
+
+Welcome to UCartify! UCartify is a website and google chrome extension to support a user’s online shopping. When the user decides to add a desired item from any website, UCartify will add the item on its list. UCartify is an amazing tool for online shopping users to collect information and purchase all of their items in one location. If the user decides to not purchase the item(s), UCartify will be one click away to remove the item(s) from the list.
+
+The value of UCartify can provide users with an organized collection of their desired items from any websites, all in one application. In such usage, it will make purchasing items from various websites fast, easy, and stress-free. UCartify can allow the user to have an accurate price of each item as well as a final price from all websites to ensure the user spends the right amount of money they plan to spend.
+
+UCarify is a fantastic software instrument to support users who love shopping online and want to know exactly how much money is being spent from each website. The extension can provide the user with easy access to each desired item, an opportunity to add and remove any unwanted item(s), a price from each item and a collective price at checkout. In this matter, online shopping can be moments of fashion creativity and instant purchasing.
+
+
+
+UCartify’s Vision Statement:
+
+This application and chrome-extension was made for online shoppers who can’t keep track of all the items they want to purchase. By saving items from multiple websites in one universal location, shopping is easier and more efficient.
+
+
+Version Control:
+
+https://github.com/jala5335/UCartify_MeetingLog.git
+https://github.com/jala5335/UCartify_MileStoneSubmissions.git
+https://github.com/jala5335/UCartify.git
+
+
+Development Method:
+
+Our plan for development going forward is going to be our own “hybrid” method, with the inclusion of some scrum methods. We will be taking aspects of the “walking skeleton” where we will set up the foundation for what we are trying to build and as time goes on, we will add extra features and improve on the backbone structure. This allows us to ensure we have a working product as early in the development process as possible so the user can start to test and give feedback. 
+
+
+Communication Plan: 
+
+Our team plans to communicate with each other through the GroupMe application on a regular basis between our meetings. We will also communicate in person during our meetings and in our recitation. 
+
+We will be using the Google suite to collaborate and complete our documentation, most specifically Google Docs and Google Drive. This allows multiple team members to be able to access and edit our documentation at the same time. It also allows us to leave comments and suggested edits on other team members work. 
+
+
+Proposed Architecture Plan:
+
+	We will be using HTML and javascript to implement our interface, including a google chrome extension and a webpage. 
+	
+	Github will be used to make changes and save our work by using repositories and working copies. This way we can work individually if necessary and still be able to retrieve working codes from the past if we decide that we want to go in a different direction on certain aspects of this project.
+
+	For our backend we will be using SQL to develop a database to store all of the product details and save information. 
+
+
+Meeting Plan: 
+
+Meeting Number:
+Day:
+Time:
+Mode:
+Location:
+Meeting 1
+Mondays
+4pm - 5pm
+Face-to-face
+Norlin Library
+Meeting 2
+Tuesdays
+3pm - 4pm
+Face-to-face
+Norlin Library
+
